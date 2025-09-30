@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kajalbormon/Developer/Code/CodeChef/Array/Find_maximum_in_an_Array/output/Find_maximum_in_an_Array'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B94, symSize: 0xDC }
+  - { offsetInCU: 0x383E, offset: 0x383E, size: 0x8, addend: 0x0, symName: __ZNSt3__13maxB8ue170006IxEERKT_S3_S3_, symObjAddr: 0xDC, symBinAddr: 0x100003C70, symSize: 0x2C }
+  - { offsetInCU: 0x44BC, offset: 0x44BC, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x134, symBinAddr: 0x100003CC8, symSize: 0x58 }
+  - { offsetInCU: 0x44FC, offset: 0x44FC, size: 0x8, addend: 0x0, symName: __ZNSt3__13maxB8ue170006IxNS_6__lessIvvEEEERKT_S5_S5_T0_, symObjAddr: 0x18C, symBinAddr: 0x100003D20, symSize: 0x54 }
+  - { offsetInCU: 0x459B, offset: 0x459B, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x2A0, symBinAddr: 0x100003E34, symSize: 0x2C }
+  - { offsetInCU: 0x6F63, offset: 0x6F63, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B94, symSize: 0xDC }
+  - { offsetInCU: 0x708C, offset: 0x708C, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x108, symBinAddr: 0x100003C9C, symSize: 0x2C }
+  - { offsetInCU: 0x70D2, offset: 0x70D2, size: 0x8, addend: 0x0, symName: __ZNKSt3__16__lessIvvEclB8ue170006IxxEEbRKT_RKT0_, symObjAddr: 0x1E0, symBinAddr: 0x100003D74, symSize: 0x34 }
+  - { offsetInCU: 0x7124, offset: 0x7124, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x214, symBinAddr: 0x100003DA8, symSize: 0x8C }
+  - { offsetInCU: 0x7190, offset: 0x7190, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x2CC, symBinAddr: 0x100003E60, symSize: 0x38 }
+...
