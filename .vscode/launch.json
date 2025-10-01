@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/kajalbormon/Developer/Code/CodeChef/String/DNA_Storage",
-      "program": "/Users/kajalbormon/Developer/Code/CodeChef/String/DNA_Storage/build/Debug/outDebug"
+      "cwd": "/Users/kajalbormon/Developer/Code/CodeChef/Array/Single_number_in_multiple_numbers",
+      "program": "/Users/kajalbormon/Developer/Code/CodeChef/Array/Single_number_in_multiple_numbers/build/Debug/outDebug"
     }
   ]
 }
